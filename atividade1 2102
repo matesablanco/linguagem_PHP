@@ -1,0 +1,11 @@
+<?php
+ // If/Elseif/Else
+ 	$i = ;
+	if($i / 2 == 0) {
+		echo "par";
+
+	} else {
+		echo "impar";
+	}
+
+?>
